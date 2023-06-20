@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in Vue.js, Laravel, and React Native. I love building innovative web and mobile applications that deliver exceptional user experiences. Here's a quick overview of my skills and experience:
 
@@ -11,6 +11,10 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in Vue.j
 - **UI/UX Design:** Figma
 - **Testing:** Jest, Cypress, PHPUnit
 - **Deployment:** Heroku, Netlify, Vercel
+
+## Language Statistics in My Repositories 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinho11&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch 📬
 
