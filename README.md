@@ -1,6 +1,6 @@
 # Hi there!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in Vue.js, Laravel, and React Native. I love building innovative web and mobile applications that deliver exceptional user experiences. Here's a quick overview of my skills and experience:
+Welcome to my GitHub profile! I'm a passionate developer with expertise in Vue.js, Laravel, and React Native. I love building innovative web and mobile applications that deliver exceptional user experiences. Here's a quick overview of my skills and experiences:
 
 ## Skills 🚀
 
