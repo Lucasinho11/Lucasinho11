@@ -17,11 +17,12 @@ Welcome to my GitHub profile! I'm a Full-Stack JavaScript developer based in Par
 
 ### [Atlasio World](https://lucaslubasinski.com)
 Geography quiz mobile app built solo — multiplayer ranked mode, ELO system, premium subscriptions and AdMob monetization.
+
 `React Native` `Expo` `NestJS` `Socket.io` `Supabase` `Zustand` `Railway`
 
-## Language Statistics 📊
+## GitHub Stats 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinho11&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasinho11&show_icons=true&theme=dark&hide=issues)](https://github.com/Lucasinho11)
 
 ## Get in Touch 📬
 
