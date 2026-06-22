@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Welcome to my GitHub profile! I'm a Full-Stack JavaScript developer based in Paris, passionate about building web and mobile applications with modern technologies. I'm currently working on **[Atlasio World](https://lucaslubasinski.com)** — a multiplayer geography quiz app with ELO ranking, premium subscriptions and AdMob monetization.
+Welcome to my GitHub profile! I'm a Full-Stack JavaScript developer based in Paris, passionate about building web and mobile applications with modern technologies. I'm currently working on **[Atlasio World](https://atlasio.world)** — a multiplayer geography quiz app with ELO ranking, premium subscriptions and AdMob monetization.
 
 ## Skills 🚀
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Full-Stack JavaScript developer based in Par
 
 ## Featured Project 🌍
 
-### [Atlasio World](https://lucaslubasinski.com)
+### [Atlasio World](https://atlasio.world)
 Geography quiz mobile app built solo — multiplayer ranked mode, ELO system, premium subscriptions and AdMob monetization.
 
 `React Native` `Expo` `NestJS` `Socket.io` `Supabase` `Zustand` `Railway`
@@ -26,6 +26,7 @@ Geography quiz mobile app built solo — multiplayer ranked mode, ELO system, pr
 - 🚀 **Founder & Full-Stack Developer** — Atlasio World *(2025 - Present)*
 - 💡 **Full-Stack Developer** — Lyse *(2025 - 2026)*
 - 🤝 **Co-founder & Full-Stack Developer** — Pick *(2022 - 2024)*
+- 🏥 **Web & Mobile Developer** — Pharnum X *(2019 - 2022)*
 
 ## Get in Touch 📬
 
