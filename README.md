@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Full-Stack JavaScript developer based in Par
 - **Real-time:** Socket.io
 - **Testing:** Vitest, Cypress, Jest
 - **Tools:** Docker, Git, ESLint, Figma
-- **AI:** Claude Code, Mistral, MCP
+- **AI:** Claude Code, Mistral
 
 ## Featured Project 🌍
 
@@ -20,9 +20,12 @@ Geography quiz mobile app built solo — multiplayer ranked mode, ELO system, pr
 
 `React Native` `Expo` `NestJS` `Socket.io` `Supabase` `Zustand` `Railway`
 
-## GitHub Stats 📊
+## Experience 💼
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasinho11&show_icons=true&theme=dark&hide=issues)](https://github.com/Lucasinho11)
+- 🏢 **Front-End Vue.js Developer** — Vente-unique / Habitat *(2024 - Present)*
+- 🚀 **Founder & Full-Stack Developer** — Atlasio World *(2025 - Present)*
+- 💡 **Full-Stack Developer** — Lyse *(2025 - 2026)*
+- 🤝 **Co-founder & Full-Stack Developer** — Pick *(2022 - 2024)*
 
 ## Get in Touch 📬
 
